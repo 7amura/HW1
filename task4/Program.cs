@@ -4,7 +4,7 @@
 // -3 -> нет 
 // 7 -> нет
 
-Console.WriteLine("Enter the number [N1, N2, N3]");
+Console.WriteLine("Enter the number: ");
 int N = int.Parse(Console.ReadLine()!);
 
 int a = 0;
