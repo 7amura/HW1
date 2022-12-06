@@ -1,0 +1,15 @@
+/Users/daria/Desktop/Homework/Homework1/task4/bin/Debug/net7.0/task4
+/Users/daria/Desktop/Homework/Homework1/task4/bin/Debug/net7.0/task4.deps.json
+/Users/daria/Desktop/Homework/Homework1/task4/bin/Debug/net7.0/task4.runtimeconfig.json
+/Users/daria/Desktop/Homework/Homework1/task4/bin/Debug/net7.0/task4.dll
+/Users/daria/Desktop/Homework/Homework1/task4/bin/Debug/net7.0/task4.pdb
+/Users/daria/Desktop/Homework/Homework1/task4/obj/Debug/net7.0/task4.csproj.AssemblyReference.cache
+/Users/daria/Desktop/Homework/Homework1/task4/obj/Debug/net7.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daria/Desktop/Homework/Homework1/task4/obj/Debug/net7.0/task4.AssemblyInfoInputs.cache
+/Users/daria/Desktop/Homework/Homework1/task4/obj/Debug/net7.0/task4.AssemblyInfo.cs
+/Users/daria/Desktop/Homework/Homework1/task4/obj/Debug/net7.0/task4.csproj.CoreCompileInputs.cache
+/Users/daria/Desktop/Homework/Homework1/task4/obj/Debug/net7.0/task4.dll
+/Users/daria/Desktop/Homework/Homework1/task4/obj/Debug/net7.0/refint/task4.dll
+/Users/daria/Desktop/Homework/Homework1/task4/obj/Debug/net7.0/task4.pdb
+/Users/daria/Desktop/Homework/Homework1/task4/obj/Debug/net7.0/task4.genruntimeconfig.cache
+/Users/daria/Desktop/Homework/Homework1/task4/obj/Debug/net7.0/ref/task4.dll
